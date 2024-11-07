@@ -1,4 +1,4 @@
-# MOVIE CRUD
+# MOVIE CRUD FRONT
 Este es un projecto de la parte front por lo que se va a necesitar la parte back
 
 ![image](https://github.com/user-attachments/assets/0e18f3cc-a26a-421b-aedd-deb7ec729521)
